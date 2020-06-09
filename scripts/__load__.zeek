@@ -1,0 +1,1 @@
+@load ./cert-hash.zeek

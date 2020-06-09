@@ -1,0 +1,3 @@
+[package]
+description = Add certificate hash to ssl.log
+script_dir = scripts
